@@ -1,0 +1,19 @@
+{
+    "tyres": [
+      {
+        "partId": "123",
+        "name": "Brake Pad",
+        "category": {
+          "categoryId": "1",
+          "name": "Braking System"
+        },
+        "brand": {
+          "brandId": "100",
+          "name": "ACME"
+        },
+        "price": 25.99,
+        "quantity": 100,
+        "image": "https://media.gettyimages.com/id/95757579/photo/profile-and-side-profile-view-of-a-car-wheel-on-white.jpg?s=612x612&w=gi&k=20&c=awd-KrLiALOhoDkrJtFVdyuoDSpDzWHCCpw3vJ4mi50="
+      }
+    ]
+  }
