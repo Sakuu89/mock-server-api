@@ -26,8 +26,8 @@
   "https://www.shutterstock.com/image-photo/tie-rod-end-isolated-on-260nw-2300274527.jpg",
   "https://www.shutterstock.com/image-photo/image-tie-rod-end-260nw-111938135.jpg"
 ]
-}
-,
+},
+
 {
   "id": 3,
   "name": "Spark Plug",
@@ -108,6 +108,7 @@
     "https://www.shutterstock.com/shutterstock/photos/1034499160/display_1500/stock-photo-regulator-pressure-valve-air-gauge-1034499160.jpg"
   ]
 },
+
 {
   "id": 9,
   "name": "Shock Absorber",
@@ -294,6 +295,142 @@
   "https://www.shutterstock.com/image-vector/realistic-car-wheel-pile-isolated-260nw-1583810545.jpg",
   "https://www.shutterstock.com/image-photo/car-tires-winter-background-260nw-1797180004.jpg"
 ]
+},
+{
+"id": 23,
+"name": "Power Steering Hose",
+"category": "Steering System",
+"brand": "TieMaster",
+"price": 378,
+"quantity": 1,
+"images": [
+  "https://www.shutterstock.com/image-photo/hose-power-steering-on-white-260nw-703026607.jpg",
+  "https://www.shutterstock.com/image-photo/high-pressure-rubber-hose-various-260nw-2173658441.jpg",
+  "https://www.shutterstock.com/shutterstock/photos/1773013316/display_1500/stock-photo-hydraulic-high-pressure-hose-isolated-on-the-white-background-new-spare-parts-1773013316.jpg"
+]
+},
+{
+"id": 24,
+"name": "Steering Gear Box",
+"category": "Steering System",
+"brand": "TieMaster",
+"price": 5499,
+"quantity": 1,
+"images": [
+  "https://www.shutterstock.com/image-photo/cross-section-car-gearbox-260nw-754841263.jpg",
+  "https://www.shutterstock.com/shutterstock/videos/12307061/thumb/1.jpg?ip=x480",
+  "https://www.shutterstock.com/image-photo/automotive-automatic-transmission-600w-1194193834.jpg"
+]
+},
+
+{
+"id": 25,
+"name": "Tie Rod Assembly",
+"category": "Steering System",
+"brand": "TieMaster",
+"price": 299,
+"quantity":1,
+"images": [
+  "https://www.shutterstock.com/image-photo/four-tie-rod-ends-on-260nw-98731952.jpg",
+  "https://www.shutterstock.com/image-photo/tie-rod-end-steering-control-260nw-374653249.jpg",
+"https://www.shutterstock.com/image-photo/outer-tie-rod-adjusting-sleeve-260nw-162405113.jpg" 
+]
+},
+
+{
+"id": 26,
+"name": "High-Flow Oil Filter",
+"category": "Oil Filter",
+"brand": "AutoTech",
+"price": 640,
+"quantity": 1,
+"images": [
+  "https://www.shutterstock.com/image-photo/spinon-oil-filter-li-779-260nw-2273079785.jpg",
+  "https://www.shutterstock.com/image-photo/spinon-oil-filter-li-779-260nw-2273079785.jpg",
+  "https://www.shutterstock.com/image-photo/truck-bus-oil-filter-260nw-1961463874.jpg"
+]
+},
+{
+"id": 27,
+"name": "Strut Assembly",
+"category": "Suspension System",
+"brand": "AutoTech",
+"price": 3934,
+"quantity": 1,
+"images": [
+  "https://www.shutterstock.com/image-photo/car-suspension-strut-shock-absorber-260nw-1864669798.jpg",
+  "https://www.shutterstock.com/image-illustration/3d-rendering-passenger-car-shock-260nw-1564225162.jpg",
+  "https://www.shutterstock.com/image-photo/spare-parts-car-suspension-mechanic-260nw-2047379969.jpg"
+]
 }
+,
+{
+"id": 28,
+"name": "Brake Caliper",
+"category": "Braking System",
+"brand": "AutoTech",
+"price": 1345,
+"quantity": 1,
+"images": [
+  "https://www.shutterstock.com/image-photo/close-brake-disc-vehicle-repairautomobile-260nw-1129543037.jpg",
+  "https://www.shutterstock.com/image-photo/yellow-brake-caliper-disc-isolated-260nw-1961287636.jpg",
+  "https://www.shutterstock.com/image-photo/auto-mechanic-installing-two-piston-260nw-2009190176.jpg"
+]
+}
+,
+{
+"id": 29,
+"name": "Control Arm",
+"category": "Suspension System",
+"brand": "AutoTech",
+"price": 249,
+"quantity": 1,
+"images": [
+  "https://www.shutterstock.com/image-photo/lower-control-arm-isolated-on-260nw-373676443.jpghttps://example.com/control-arm-image1.jpg",
+  "https://www.shutterstock.com/image-photo/new-suspension-lower-control-arm-260nw-2050730648.jpg",
+  "https://www.shutterstock.com/image-photo/new-suspension-lower-control-arm-260nw-2050216475.jpg"
+]
+},
+{
+"id": 30,
+"name": "Performance Air Filter",
+"category": "Air Filter",
+"brand": "AirFlow",
+"price": 794,
+"quantity": 25,
+"images": [
+  "https://www.shutterstock.com/image-photo/air-cone-filter-on-white-260nw-126393158.jpg",
+"https://www.shutterstock.com/image-photo/closeup-sport-engine-air-intakes-260nw-2371120549.jpg",
+"https://www.shutterstock.com/image-photo/air-filter-turbocharger-racing-car-260nw-1576224361.jpg"  
+]
+}
+,
+{
+"id": 31,
+"name": "Performance Air Intake",
+"category": "Air Filter",
+"brand": "AirFlow",
+"price": 499,
+"quantity": 1,
+"images": [
+"https://www.shutterstock.com/shutterstock/photos/1460538014/display_1500/stock-photo-high-performance-air-filter-on-a-cold-air-intake-1460538014.jpg",
+ "https://www.shutterstock.com/image-photo/close-sport-car-air-filter-260nw-765067540.jpg",
+ "https://www.shutterstock.com/image-photo/car-air-filter-zero-resistance-260nw-652876159.jpg"
+]
+},
+{
+  "id": 32,
+  "name": "Cabin Air Bag",
+  "category": "Air Filter",
+  "brand": "AirFlow",
+  "price": 899,
+  "quantity": 1,
+  "images": [
+    "https://www.shutterstock.com/image-photo/safety-air-bag-demonstration-260nw-9526603.jpg",
+    "https://static.fibre2fashion.com/ArticleResources/Images/72/7139/Air_Bags_big.jpg",
+    "https://www.heitingandirwin.com/wp-content/uploads/2015/05/17ike-rav4-ng-srs-airbags-940x529.jpg" 
+ ]
+}
+
   ]
 }
